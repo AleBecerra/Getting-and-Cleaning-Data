@@ -1,4 +1,4 @@
-CodeBook for the tidy dataset (tidy_table.csv)
+## CodeBook for the tidy dataset (tidy_table.csv)
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was
 originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -46,7 +46,7 @@ fBodyGyroMag
 
 fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: 
+## The set of variables that were estimated from these signals are: 
 
 Mean: Mean value
 
