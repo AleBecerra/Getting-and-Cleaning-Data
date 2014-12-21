@@ -46,7 +46,7 @@ fBodyGyroMag
 
 fBodyGyroJerkMag
 
-# The set of variables that were estimated from these signals are: 
+#### The set of variables that were estimated from these signals are: 
 
 Mean: Mean value
 
